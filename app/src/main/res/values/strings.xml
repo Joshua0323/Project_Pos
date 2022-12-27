@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test28</string>
+    <string name="username_email_com">username@email.com</string>
+    <string name="password">password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="pos_login">POS Login</string>
+</resources>
