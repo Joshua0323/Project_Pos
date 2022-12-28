@@ -1,2 +1,2 @@
 # Project_Pos
-# This is a personal project for pos system
+# This is a personal APK project for pos system.
